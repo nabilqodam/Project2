@@ -28,3 +28,7 @@ function login(){
     }
     window.open("./datamontir_adminpage.html")
 }
+
+function daftar(){
+    window.open("./index.html")
+}
